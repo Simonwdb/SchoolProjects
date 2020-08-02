@@ -1,0 +1,8 @@
+bin
+lib
+.settings
+src
+.classpath
+.DS_Store
+.project
+myJSON.json
